@@ -133,6 +133,16 @@ Add screenshots here after uploading your project.
 * Recruiter Dashboard
 
 ---
+## Screenshots
+
+### Home Page
+![Home Page](home_page.png)
+
+### Resume Analysis
+![Resume Analysis](resume_analysis.png)
+
+### Recruiter Dashboard
+![Recruiter Dashboard](dashboard.png)
 
 ## Future Enhancements
 
