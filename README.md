@@ -136,13 +136,13 @@ Add screenshots here after uploading your project.
 ## Screenshots
 
 ### Home Page
-![Home Page](home_page.png)
+![Home Page](home_page.jpeg)
 
 ### Resume Analysis
-![Resume Analysis](resume_analysis.png)
+![Resume Analysis](resume_analysis.jpeg)
 
 ### Recruiter Dashboard
-![Recruiter Dashboard](dashboard.png)
+![Recruiter Dashboard](dashboard.jpeg)
 
 ## Future Enhancements
 
